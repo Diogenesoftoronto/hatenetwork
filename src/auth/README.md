@@ -1,3 +1,3 @@
 # Authentication Service
 
-This directory manages the 
+This directory manages the authentication of the application. 
